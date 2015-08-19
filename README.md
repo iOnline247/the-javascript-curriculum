@@ -9,11 +9,11 @@ This curriculum heavily realies on [NodeSchool.io](http://nodeschool.io) for the
 > Have lingering questions about why you should be doing JavaScipt? Check out this [presentation](http://slides.com/doguhanuluca/agile-done-right-using-javascript-and-node-3#/) on Why JavaScript?
 
 ### Before You Begin
-It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[x]` checkboxes and committing them to your own repository. 
+It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[ ]` checkboxes and committing them to your own repository. 
 
 ### New to Collaborative & Open Source Programming?
-- [ ] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
-- [ ] Install a Git client,
+- [x] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
+- [x] Install a Git client,
   - Simple:
     - [GitHub for Windows](https://windows.github.com/) 
     - [GitHub for Mac](https://mac.github.com/) 
@@ -21,12 +21,12 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
     - [GitExtensions (Windows)](http://sourceforge.net/projects/gitextensions/)
     - [Tower (Mac)](http://www.git-tower.com/)
     - [Github Desktop (Mac/Windows)](https://desktop.github.com/) *In pre-release*
-- [ ] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
+- [x] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
 
 ### Pre-Requisites
-- [ ] Install Node.js, so you can run the self-learning tools: [https://iojs.org/](https://iojs.org/) *_Note:_ iojs and Node.js will very soon become the same thing.*
+- [x] Install Node.js, so you can run the self-learning tools: [https://iojs.org/](https://iojs.org/) *_Note:_ iojs and Node.js will very soon become the same thing.*
 - [ ] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
-- [ ] Get a good text editor/IDE.
+- [x] Get a good text editor/IDE.
   - Text Editor
     - [Atom](http://www.atom.io/)
     - [Sublime Text](http://www.sublimetext.com/3)
@@ -46,14 +46,14 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - Specific questions are far more likely to get answered, than general/generic questions.
 
 ### Absolute Beginners
-- [ ] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
-- [ ] Type in `npm`, do you see `Usage: npm <command>`?
+- [x] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
+- [x] Type in `npm`, do you see `Usage: npm <command>`?
 - You're ready to start learning, using the self guided workshoppers. Good luck! 
 - [ ] Learn how to use Git and GitHub basics.
   - Run `npm install -g git-it`
   - Then `git-it`
   - Additional help http://jlord.us/git-it/
-- [ ] Learn JavaScript basics. No previous coding experience required.
+- [x] Learn JavaScript basics. No previous coding experience required.
   - Run `npm install -g javascripting`
   - Then `javascripting`
   - Additional info https://github.com/sethvincent/javascripting
