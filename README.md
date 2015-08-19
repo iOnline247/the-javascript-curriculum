@@ -9,7 +9,7 @@ This curriculum heavily realies on [NodeSchool.io](http://nodeschool.io) for the
 > Have lingering questions about why you should be doing JavaScipt? Check out this [presentation](http://slides.com/doguhanuluca/agile-done-right-using-javascript-and-node-3#/) on Why JavaScript?
 
 ### Before You Begin
-It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[ ]` checkboxes and committing them to your own repository. 
+It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[x]` checkboxes and committing them to your own repository. 
 
 ### New to Collaborative & Open Source Programming?
 - [ ] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
